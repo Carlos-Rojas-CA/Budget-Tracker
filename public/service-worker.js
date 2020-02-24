@@ -1,4 +1,3 @@
-//Your code goes here
 const FILES_TO_CACHE = ["/", "/index.html", "index.js", "styles.css", "db.js"];
 
 const CACHE_NAME = "static-cache-v2";
